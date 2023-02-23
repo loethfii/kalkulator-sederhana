@@ -10,7 +10,7 @@ Aplikasi kalkulator sederhana merupakan aplisi yang dapat melakukan perhitungan 
 - pengurangan
 - Perhitungan float
 
-## Tech
+## Requirement
 
 Untuk membuat aplikasi ini diperlukan tools pendukung sebagai berikut :
 
@@ -20,9 +20,19 @@ Untuk membuat aplikasi ini diperlukan tools pendukung sebagai berikut :
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS (Cascading Style Sheets) adalah bahasa pemrograman yang digunakan untuk mengontrol tampilan halaman web. 
 - [Kode Editor](https://code.visualstudio.com/)Kode editor (code editor) adalah program komputer yang digunakan untuk menulis, mengedit, dan mengelola kode program. Kode editor biasanya digunakan oleh pengembang perangkat lunak untuk membuat dan memodifikasi berbagai jenis file kode, seperti file HTML, CSS, JavaScript, Python, Java, dan banyak lagi.
 
-## Installation
+## Instalation
 
-Aplikais kalkulator sederhana memerlukan web server [apache](https://httpd.apache.org/) atau bisa menggunakan [xampp](https://www.apachefriends.org/download.html)
+* XAMPP
+
+   Download [XAMPP](https://www.apachefriends.org/download.html) sesuai OS (Operating System) masing-masing, kemudian install sesuai petunjuk.
+
+*  Bootstrap
+
+   Download [Bootstrap V4.0.0](https://getbootstrap.com/docs/4.0/getting-started/download/).
+
+## Usage
+
+Aplikasi kalkulator sederhana memerlukan web server [apache](https://httpd.apache.org/) atau bisa menggunakan [xampp](https://www.apachefriends.org/download.html)
 
 - Download zip atau clone aplikasi ini.
 - Extrak folder jika menggunakan metode zip.
@@ -33,4 +43,4 @@ Aplikais kalkulator sederhana memerlukan web server [apache](https://httpd.apach
 - Kalkulator siap digunakan.
 
 ## Credit
-> Arif Luthfi R 
+> Author : Arif Luthfi R 
